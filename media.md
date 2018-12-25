@@ -3,3 +3,31 @@
 ## correct.jpg
 
 ![correct.jpg](https://img-blog.csdnimg.cn/20181225161914852.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3JpY2hlbnl1bnFp,size_16,color_FFFFFF,t_70)
+
+## mistake.jpg
+
+![mistake.jpg](https://img-blog.csdnimg.cn/20181225162141649.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3JpY2hlbnl1bnFp,size_16,color_FFFFFF,t_70)
+
+## question.jpg
+
+![question.jpg](https://img-blog.csdnimg.cn/20181225162202299.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3JpY2hlbnl1bnFp,size_16,color_FFFFFF,t_70)
+
+## mine.jpg
+
+![mine.jpg](https://img-blog.csdnimg.cn/2018122516221284.jpg)
+
+## flag.jpg
+
+![flag.jpg](https://img-blog.csdnimg.cn/20181225162238506.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3JpY2hlbnl1bnFp,size_16,color_FFFFFF,t_70)
+
+## fail.png
+
+![fail.png](https://img-blog.csdnimg.cn/20181225162248762.png)
+
+## win.png
+
+![win.png](https://img-blog.csdnimg.cn/20181225162303681.png)
+
+## underway.png
+
+![underway.png](https://img-blog.csdnimg.cn/20181225162313619.png)
